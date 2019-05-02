@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nomis Blog</title>
+        <link
+ href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+    </head>
+    
+    <body>
+        <!-- header start -->
+        <div id="header" class="section">
+            <img alt=""" class="img-circle"
+ src="raceselect/dev_app/pictures/371.jpeg">
+             <p>Nomis</p>
+             </div>
+             <!-- header end -->
+             
+             <!-- About Me section start -->
+             <div clas="section">
+             <h1><span>About Me</span></h1>
+             <p>
+                    Hey! I'm <strong>SIMON M</strong.
+Coding has changed my life! It's not just about apps and websites. 
+Learning to code has given me<i>problem-solving skills</i> and a
+way to communicate with other people on a technical level. I can
+develop websites and apps, write code and modules, test and debug
+I'm training as a datascientist and hope to use my skills to get a 
+better job, I've 
