@@ -1,4 +1,5 @@
-## Welcome to Simon's Homepage
+# Welcome to Simon's Python Homepage 
+### A PYTHON HACK!
 
 You can use the [editor on GitHub](https://github.com/Simo137/simo137.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
